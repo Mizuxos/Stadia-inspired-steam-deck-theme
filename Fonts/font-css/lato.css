@@ -1,8 +1,0 @@
-@font-face {
-  font-family: Lato;
-  src: url("/themes_custom/Fonts/fonts/Lato-Regular.ttf");
-}
-
-* {
-  font-family: Lato !important;
-}
